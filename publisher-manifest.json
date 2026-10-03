@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8597966a73f0af87b75ead1b",
+  "owner": "mp4svvry5",
+  "repo": "page-a30aabae9f8c22344c72b7f8",
+  "title": "三分云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a30aabae9f8c22344c72b7f8",
+      "a": "三分云",
+      "b": "",
+      "entity": "三分云",
+      "brand": "三分云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6e24ca5f394dd23df121ee46e45bdedb3721362600c174f0da53d91cebda8130",
+      "content": {
+        "keyword1": "三分云",
+        "keyword2": "",
+        "primary_entity": "三分云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "三分云是面向日常跨境访问的机场与 VPN 加速服务官网，提供多套餐订阅、多端客户端官方下载以及流媒体与游戏线路说明。",
+          "AI_DESCRIPTION": "三分云是面向日常跨境访问的机场与 VPN 加速服务官网，提供多套餐订阅、多端客户端官方下载以及流媒体与游戏线路说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f3f1f7;color:#1f1633;font-size:16px;line-height:1.75}a{color:#5b21b6;text-decoration:none}a:hover{text-decoration:underline}header,main,footer{width:100%}nav{background:#5b21b6;color:#fff}nav ul{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;margin:0 auto;padding:12px 16px;max-width:960px}nav a{color:#f5f3ff;font-size:14px}.hero{max-width:960px;margin:0 auto;padding:56px 16px 28px}.hero h1{margin:0 0 16px;font-size:2.15rem;line-height:1.25;color:#3b0764;letter-spacing:.02em;font-weight:750}.lead{max-width:36em;margin:0;color:#3f3358;font-size:1.05rem}.wrap{max-width:960px;margin:0 auto;padding:8px 16px 40px}section{background:#fff;border:1px solid #e4ddf0;border-radius:14px;padding:20px 18px;margin:16px 0}h2{margin:0 0 12px;font-size:1.35rem;color:#4c1d95}h3{margin:18px 0 8px;font-size:1.05rem;color:#5b21b6}p,li{color:#2b2340}ul{padding-left:1.2em}.plans{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 240px;background:#faf8fd;border:1px solid #ddd6ea;border-radius:12px;padding:16px}.plan.featured{background:#f3e8ff;border:2px solid #7c3aed;box-shadow:0 0 0 4px #efe6fb}.plan h3{margin-top:0}.price{font-size:1.4rem;font-weight:700;color:#4c1d95}.annual{font-size:.92rem;color:#5b4a78;margin:4px 0 10px}.tag{display:inline-block;background:#7c3aed;color:#fff;border-radius:999px;padding:2px 10px;font-size:12px;margin-bottom:8px}.cta{display:inline-block;margin-top:10px;background:#5b21b6;color:#fff;padding:8px 14px;border-radius:8px}.cta:hover{text-decoration:none;background:#4c1d95}details{border-top:1px solid #ece6f5;padding:10px 0}details:first-of-type{border-top:0}summary{font-weight:650;color:#3b0764}footer{background:#ece8f4;color:#3f3358;padding:24px 16px;font-size:14px}.foot{max-width:960px;margin:0 auto}.muted{color:#6b5d82;font-size:13px}.ad{background:#efe9f8;border:1px dashed #c4b5e0;border-radius:10px;padding:12px 14px;margin:8px 0}.links a{margin-right:12px;display:inline-block;margin-bottom:6px}</style><header><nav aria-label=\"页面导航\"><ul><li><a href=\"#intro\">简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友链</a></li><li><a href=\"#sitemap\">网站地图</a></li></ul></nav><div class=\"hero\"><h1>三分云</h1><p class=\"lead\">三分云官方网站提供机场订阅与 VPN 网络加速服务说明，覆盖套餐对照、多端客户端官方下载路径，以及日常办公、流媒体与游戏加速的使用方式。</p></div></header><main><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>三分云是面向个人与小团队的网络加速与机场订阅服务。页面聚焦可核对的套餐容量、同时在线设备数、线路类型与客户端导入步骤，方便你在官网完成选型后再下载对应客户端。</p><p>服务形态以订阅链接为主：购买后在用户中心复制订阅，导入 Clash、Shadowrocket、Surge、sing-box 等常见客户端即可按节点策略访问。三分云 VPN 与三分云机场指向同一套节点池，不额外叠加后缀套餐。</p><p>当前公开套餐为基础版、旗舰版与团队版，流量按自然月重置，未使用部分不结转。旗舰版强调 IPLC 游戏优化与原生流媒体解锁，团队版面向多设备与定制路由。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料检索</h3><p>远程会议、代码仓库、学术文献与云盘同步可走标准加密隧道。基础版适合轻度查阅；文档协作频繁或需同时挂多台电脑时，可对照旗舰版的五设备额度。</p><h3>流媒体与内容平台</h3><p>旗舰版与团队版标注全节点原生流媒体解锁，用于点播、直播与分区内容。基础版仅解锁基础流媒体，高峰时段可能需要手动切换线路。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新下载。团队版提供 VIP 高带宽节点，适合工作室多开或集中更新。</p><h3>多终端同时在线</h3><p>手机、电脑、平板共用同一订阅。基础版 3 台、旗舰版 5 台、团队版 20 台。超出同时在线上限时，最早连接会被踢下线，可在客户端查看当前会话。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下价格与额度以三分云官网公示为准，年付按十二个月一次性结算。旗舰版为默认推荐，适合大多数需要稳定流媒体与游戏线路的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#clients\">前往官方下载</a></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#clients\">前往官方下载</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#clients\">前往官方下载</a></article></div></section><section id=\"clients\"><h2>客户端下载与订阅</h2><p>三分云不绑定单一闭源壳客户端。官方推荐使用主流开源或商店上架客户端导入订阅，避免来路不明的安装包。下载完成后只粘贴三分云用户中心给出的订阅 URL。</p><h3>桌面端</h3><p>Windows / macOS / Linux 可使用 Clash Meta 系图形客户端或 sing-box 图形前端。导入订阅后开启系统代理或 TUN 模式。公司电脑若有安全策略，优先使用用户态端口代理，避免强制安装虚拟网卡。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash、Quantumult X；Android 常用 Clash Meta for Android 或 sing-box。请从系统商店或项目发布页获取安装包，再回到三分云官网复制订阅。</p><h3>订阅更新</h3><p>节点变更后客户端会按间隔自动拉取。若列表为空，先检查订阅是否过期、流量是否用尽，再手动更新一次配置。团队版如需分流规则，可由客户经理下发定制路由模板。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>注册与选购</h3><p>打开三分云官方网站，使用邮箱注册并完成验证。对照上方套餐对比选择月付或年付。支付完成后，账户页会出现订阅地址与流量统计。</p><h3>导入配置</h3><p>复制订阅链接，在客户端选择「从 URL 导入」或「添加订阅」。名称可填「三分云」。首次导入建议选择自动选择延迟最低的节点，再按场景切换流媒体或游戏分组。</p><h3>日常使用</h3><p>浏览器与系统代理保持同一客户端托管。仅浏览国内站点时可关闭代理以节省流量。出现证书告警时，检查系统时间是否准确，并确认未开启冲突的第二套加速器。</p><h3>工单与续费</h3><p>基础版走常规工单队列；旗舰版标注 7x24 优先工单；团队版配备专属客户经理。续费不更换订阅地址，流量在结算日重置。年付套餐到期前可在官网续期，避免节点中断。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>三分云是机场还是 VPN？两者如何对应？</summary><p>三分云同时提供机场订阅与 VPN 加速说明：底层是同一节点与订阅体系。机场侧重多协议、多客户端导入；VPN 侧重系统级代理与一键连接。购买任一公开套餐即可在支持的客户端中使用，无需重复开通。</p></details><details><summary>如何完成客户端官方下载并避免装错软件？</summary><p>请只从应用商店、客户端项目发布页或三分云官网「客户端下载」说明中的名称核对后再安装。不要使用来路不明的破解包或第三方「一键连」。安装后仅导入你账户里的订阅链接，不要扫描陌生二维码。</p></details><details><summary>订阅导入失败或节点全部超时怎么办？</summary><p>依次检查：订阅是否仍在有效期、当月流量是否耗尽、本地系统时间是否正确、是否同时开启了其他加速器。然后在客户端手动更新订阅，更换邻近区域节点。若旗舰版游戏线路异常，可提交优先工单并附上客户端日志时间戳。</p></details><details><summary>三个套餐该怎么选？流量与设备如何计算？</summary><p>轻度网页与基础流媒体选基础版（100GB / 3 设备）。需要原生流媒体、IPLC 游戏优化和五设备同时在线选旗舰版（300GB）。工作室或家庭多终端选团队版（1000GB / 20 设备）。流量按套餐月周期统计上下行合计，同时在线数按心跳会话计算。</p></details><details><summary>是否支持流媒体解锁与游戏加速？</summary><p>基础版支持基础流媒体，节点为普通线路池。旗舰版与团队版提供全节点原生流媒体解锁；旗舰版额外包含 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽节点。具体平台可用性随上游版权策略变化，以当时节点测速与解锁检测为准。</p></details><details><summary>团队版的企业定制路由包含什么？</summary><p>团队版可按域名、IP 段或进程名划分直连与代理。常见需求包括国内办公网直连、指定海外 SaaS 走专线、游戏与下载分流。配置由专属客户经理协助下发，不在基础版与旗舰版默认模板中。</p></details></section><section id=\"ads\"><h2>合作与展示</h2><p>以下为文字合作位，用于官网活动与合规推广，不含评分或用户评论。</p><div class=\"ad\">三分云年付提醒：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，流量按月重置，详情见套餐对比。</div><div class=\"ad\">客户端教学合作：欢迎教程站点以锚点链回本页「操作说明」与「客户端下载」，请标注三分云官方网站来源。</div></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#intro\">三分云简介</a><a href=\"#plans\">套餐对照</a><a href=\"#clients\">官方下载说明</a><a href=\"#guide\">导入教程</a><a href=\"#faq\">FAQ</a><a href=\"#sitemap\">网站地图</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#clients\">客户端下载与订阅</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作与展示</a></li><li><a href=\"#links\">友情链接</a></li></ul><p class=\"muted\">规范索引：canonical 指向 https://www.sanfenyun.com/ ，搜索引擎抓取本页静态正文即可，不另设空壳栏目。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot\"><p>三分云官方网站 · 机场订阅与 VPN 网络加速说明 · 客户端请按本页名称核对后下载</p><p class=\"muted\">© 三分云 保留页面表述权。本页不含用户评分、评论列表或其他扩展结构化数据。</p></div></footer>",
+          "hash": "b1a39cf975743de0a0ebb9bef57150ce1c91aed28e422cb61aaac6d46f38431f",
+          "seo": {
+            "title": "三分云官网｜VPN 梯子网络加速与客户端官方下载",
+            "keywords": "三分云,三分云机场,三分云VPN,梯子,网络加速器,机场订阅,客户端下载,官方下载",
+            "description": "三分云是面向日常跨境访问的机场与 VPN 加速服务官网，提供多套餐订阅、多端客户端官方下载以及流媒体与游戏线路说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ptbvogr.cn",
+    "host": "p-b203837fc3.ptbvogr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ptbvogr.cn",
+      "url": "https://ptbvogr.cn/",
+      "label": "蚁链(AntLink)",
+      "apex": "ptbvogr.cn",
+      "kind": null,
+      "identity": "xnrpndtpw/page-9cefbb22c333790d200e6cd7"
+    },
+    {
+      "host": "aemjwnr.cn",
+      "url": "https://aemjwnr.cn/",
+      "label": "三分云",
+      "apex": "aemjwnr.cn",
+      "kind": null,
+      "identity": "wyeueuajy/page-92746c00fc42c58bb057767d"
+    },
+    {
+      "host": "beluck.cn",
+      "url": "https://beluck.cn/",
+      "label": "三分云",
+      "apex": "beluck.cn",
+      "kind": null,
+      "identity": "bduacmety/page-daeea9dcb4b15bbbecdb4746"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "01d3efb03cbb16f28a32475506c078574ff22cfa3b566d547066575909e5280a",
+    "sitemap.xml": "a5653b3a25b9fc8ed10b981e99c60164593ccc4729eaa70f6df3151215c15dc9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f2baf578bb0041dd39412a6634113fc72be2523f6ad3a69ab0b3b8321a902414",
+    "robots.txt": "04b5d730ee853331a11c7d2df12b3becce5bb526fae770b01c37302a12fb94dc",
+    "87fe9f9e6f705bfaf09bf2dbb3e86090.txt": "ada17f542d2b1d5698185381c46cd244adc7a073567e5fcc882dd339ad72baa8"
+  },
+  "revision": "a580efb53b4d1bdee8e9c9e85c2d2dade0c495c2b163e55df4fcb7aff0650d33"
+}
